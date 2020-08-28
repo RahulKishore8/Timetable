@@ -1,0 +1,21 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+th,td{
+  padding: 2% 20px;
+}
+
+td{
+    color: #00bcd4;
+    padding: 2% 20px;
+    font-weight: 600;
+}
+a{
+  text-decoration: none;
+  color: #00bcd4;
+  font-weight: 600;
+}
